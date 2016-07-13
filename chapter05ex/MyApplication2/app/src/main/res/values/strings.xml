@@ -2,4 +2,8 @@
     <string name="app_name">no05</string>
     <string name="chick_me">按下去</string>
     <string name="new_button_text">下面</string>
+    <string name="textView1">這是一個 text view</string>
+    <string name="to">To</string>
+    <string name="message">Message</string>
+    <string name="send">傳送</string>
 </resources>
