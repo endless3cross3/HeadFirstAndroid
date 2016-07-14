@@ -6,4 +6,7 @@
     <string name="to">To</string>
     <string name="message">Message</string>
     <string name="send">傳送</string>
+    <string name="testview">這是一個 text view</string>
+    <string name="edit">請在這裡輸入</string>
+    <string name="to_hint">輸入你的電子郵件</string>
 </resources>
