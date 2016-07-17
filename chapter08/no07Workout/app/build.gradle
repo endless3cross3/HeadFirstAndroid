@@ -5,8 +5,8 @@ android {
     buildToolsVersion "24.0.0"
 
     defaultConfig {
-        applicationId "com.endless3cross3.no04stopwatch"
-        minSdkVersion 15
+        applicationId "com.endless3cross3.no07workout"
+        minSdkVersion 17
         targetSdkVersion 24
         versionCode 1
         versionName "1.0"
